@@ -30,7 +30,7 @@ Here's a walkthrough of implemented user stories:
 
 <img src='http://recordit.co/ejMCjKQRnW' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
-GIF created with [Recordit](http://recordit.co/ejMCjKQRnW).
+GIF created with [Recordit](http://g.recordit.co/ejMCjKQRnW.gif).
 
 ## Notes
 
